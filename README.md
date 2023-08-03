@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm HINDESH AKASH</h1>
 <h3 align="center">A passionate Data Scientist from India!</h3>
 
-<img align="right" alt="Data Scientist" width=200 src="https://aryng.com/new-assets/images/strategic-data-science.gif">
+<img align="right" alt="Data Scientist" width=350 src="https://aryng.com/new-assets/images/strategic-data-science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hindesh-akash&label=Profile%20views&color=0e75b6&style=flat" alt="hindesh-akash" /> </p>
 
